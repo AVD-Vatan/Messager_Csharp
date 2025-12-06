@@ -1,0 +1,8 @@
+C:\Users\abolfazl\OneDrive\Desktop\تمرین C#\Masseger\Masseger\bin\Debug\Masseger.exe.config
+C:\Users\abolfazl\OneDrive\Desktop\تمرین C#\Masseger\Masseger\bin\Debug\Masseger.exe
+C:\Users\abolfazl\OneDrive\Desktop\تمرین C#\Masseger\Masseger\bin\Debug\Masseger.pdb
+C:\Users\abolfazl\OneDrive\Desktop\تمرین C#\Masseger\Masseger\obj\Debug\Masseger.exe
+C:\Users\abolfazl\OneDrive\Desktop\تمرین C#\Masseger\Masseger\obj\Debug\Masseger.pdb
+C:\Users\abolfazl\OneDrive\Desktop\تمرین C#\Masseger\Masseger\obj\Debug\Masseger.csproj.AssemblyReference.cache
+C:\Users\abolfazl\OneDrive\Desktop\تمرین C#\Masseger\Masseger\obj\Debug\Masseger.exe.config
+C:\Users\abolfazl\OneDrive\Desktop\تمرین C#\Masseger\Masseger\obj\Debug\Masseger.csproj.CoreCompileInputs.cache
